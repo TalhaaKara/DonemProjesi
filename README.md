@@ -1,5 +1,7 @@
 ## DonemProjesi
 Donem projesinde yapmış olduğum mobil oyun
+## Nedir?
+Aynı kartları bulmaya çalışarak puan kazanılan iki kişilik oyun.
 
 # Projede Yapılanlar
 
